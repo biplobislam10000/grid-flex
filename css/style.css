@@ -1,0 +1,29 @@
+.box {
+	height: 100px;
+	margin-bottom: 10px;
+	text-align: center;
+	font-weight: 700;
+	background-color: green;
+}
+.box2 {
+	height: 100px;
+	margin-bottom: 10px;
+	text-align: center;
+	font-weight: 700;
+	background-color: blueviolet;
+}
+.box3 {
+	height: 100px;
+	text-align: center;
+	font-weight: 700;
+	background-color: green;
+}
+.box4 {
+	height: 100px;
+	text-align: center;
+	font-weight: 700;
+	background-color: antiquewhite;
+}
+.container {
+	margin-bottom: 10px;
+}
